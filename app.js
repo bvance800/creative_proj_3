@@ -29,42 +29,42 @@ app.factory('items', [function(){
 	var inv = {
 		items: [
 			{
-				img:"images/orange-flowers.jpg",
-				price: 18,
+				img:"images/chromecast.png",
+				price: 55,
 				description: "Lovely arrangement of orange and blue flowers." + 
 				" Perfect for any occasion!",
 				id: 0
 			},
 			{
-				img:"images/pink-flowers.jpg",
+				img:"images/dellxps13.png",
 				price: 18,
 				description: "Lovely arrangement of red and pink flowers." + 
 				" Perfect for any occasion!",
 				id: 1
 			},
 			{
-				img:"images/roses.jpg",
+				img:"images/iPhone.jpg",
 				price: 25,
 				description: "Lovely arrangement of roses." + 
 				" Perfect for any occasion!",
 				id: 2
 			},
 			{
-				img:"images/tulips.jpg",
+				img:"images/newTV.jpg",
 				price: 20,
 				description: "Lovely arrangement of colorful tulips." + 
 				" Perfect for any occasion!",
 				id: 3
 			},
 			{
-				img:"images/white-flowers.jpg",
+				img:"images/skullcandyheadphones.jpg",
 				price: 22,
 				description: "Lovely arrangement of white flowers. Not sure what kind." + 
 				" Perfect for any occasion!",
 				id: 4
 			},
 			{
-				img:"images/yellow-flowers.jpg",
+				img:"images/xboxscorpio.jpg",
 				price: 20,
 				description: "Lovely arrangement of many different colored flowers." + 
 				" Perfect for any occasion!",
