@@ -30,44 +30,38 @@ app.factory('items', [function(){
 		items: [
 			{
 				img:"images/chromecast.png",
-				price: 55,
-				description: "Lovely arrangement of orange and blue flowers." + 
-				" Perfect for any occasion!",
+				price: 30,
+				description: "Mirrors your computer or device screen to your TV. Convenient thumb-sizeSupports 100s of apps like Netflix, YouTube, HBO Now, PandoraPlugs into any HDTV and connects to your home WiFi network",
 				id: 0
 			},
 			{
 				img:"images/dellxps13.png",
-				price: 18,
-				description: "Lovely arrangement of red and pink flowers." + 
-				" Perfect for any occasion!",
+				price: 849,
+				description: "Erasing borders, starting with the display. The Dell XPS 13\" Laptop features the world’s first virtually borderless InfinityEdge display. You'll enjoy watching your favorite media and surfing the web on this unique screen. ",
 				id: 1
 			},
 			{
 				img:"images/iPhone.jpg",
-				price: 25,
-				description: "Lovely arrangement of roses." + 
-				" Perfect for any occasion!",
+				price: 719,
+				description: "iPhone 7 dramatically improves the most important aspects of the iPhone experience. It introduces advanced new camera systems. The best performance and battery life ever in an iPhone. Immersive stereo speakers. The brightest, most colorful iPhone display. Splash and water resistance.1 And it looks every bit as powerful as it is. This is iPhone 7.",
 				id: 2
 			},
 			{
 				img:"images/newTV.jpg",
-				price: 20,
-				description: "Lovely arrangement of colorful tulips." + 
-				" Perfect for any occasion!",
+				price: 1699,
+				description: "Discover a thrilling world of extraordinary clarity. Every single pixel is enhanced beautifully by a powerful 4K picture processing technology. Individual parts of each scene are analyzed and matched with a special image database that independently addresses texture, contrast, color, and edges. The difference is clear with supremely lifelike detail, whatever you're watching.",
 				id: 3
 			},
 			{
 				img:"images/skullcandyheadphones.jpg",
-				price: 22,
-				description: "Lovely arrangement of white flowers. Not sure what kind." + 
-				" Perfect for any occasion!",
+				price: 29,
+				description: "Powerful, dual-channel haptic bass provides an immersive experience with bass you can feel. Refined memory foam ear pads enable a noise isolating fit. Bluetooth® wireless with up to 40 hours of battery life.",
 				id: 4
 			},
 			{
 				img:"images/xboxscorpio.jpg",
-				price: 20,
-				description: "Lovely arrangement of many different colored flowers." + 
-				" Perfect for any occasion!",
+				price: 399,
+				description: "The most powerful console ever, with 6 teraflops of graphical processing power.The first and only console to enable true 4K gaming and hi-fidelity VR.Compatible with all your Xbox One games and accessories.",
 				id: 5
 			}
 
